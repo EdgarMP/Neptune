@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Neptune</string>
+    <string name="error">No products to show</string>
+    <string name="title">Cash Back Products</string>
+    <string name="filter">Filter by Cash Back</string>
+    <string name="reload">Reload</string>
+</resources>
